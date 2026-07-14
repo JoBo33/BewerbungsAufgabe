@@ -1,0 +1,23 @@
+{
+  "name": "bewerbungsaufgabe",
+  "version": "1.0.0",
+  "description": "In Energieaudits müssen technische Maßnahmen häufig berechnet, erklärt und für nicht-technische Entscheider:innen verständlich aufbereitet werden. Gleichzeitig entstehen solche Texte zunehmend mit KI-Unterstützung. Wichtig ist dabei, dass das LLM nicht einfach unkontrolliert Text erzeugt, sondern Berechnungen, Annahmen, Quellen und Plausibilität nachvollziehbar macht.",
+  "homepage": "https://github.com/JoBo33/BewerbungsAufgabe#readme",
+  "bugs": {
+    "url": "https://github.com/JoBo33/BewerbungsAufgabe/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoBo33/BewerbungsAufgabe.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

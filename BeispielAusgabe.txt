@@ -1,0 +1,40 @@
+Selber berechnet
+Jahresertrag: 315000 kWh
+
+Eigenverbrauch in kwh: 204750 kWh
+
+einspeisung in kwh: 110250 kWh
+
+Ersparnis an Strom: 47092 kWh
+
+Einnahmen durch Einspeisung: 7718 kWh
+
+Jährliche Ersparnis: 54810 €
+
+Gesamtkosten: 267750000 kWh
+
+Amortisationszeit: 4885 Jahre
+
+AI Analyse
+Hier ist eine strukturierte Auswertung anhand der gegebenen Daten und Kennzahlen: **Eingabedaten:** * Elektrische
+Verbrauchsmenge: 820.000 kWh * Berechneter PV-Effizienz: 35% * Spezifischer PV-Umsatz: 900 €/Mio. kWp * Eigenverbrauch:
+65% * Stromanbieterpreis: 0,23 €/kWh * Einspeisevergütung: 0,07 €/kWh * Investitionsaufwand: 850 €/kWp * Analyseperiode:
+20 Jahre **Berechnete Kennzahlen:** * Einnahmen pro Jahr: 315.000 € * Eigenverbrauch in kWh: 204.750 kWh * Einspeisung
+in kWh: 110.250 kWh * Einsparungen durch Eigenverbrauch: 47.092 € * Einnahmen aus Einspeisung: 7.718 € *
+Gesamteinnahmen pro Jahr: 54.810 € * Gesamtkosten: 267.750.000 € (Investitionsaufwand + Lebensdauerbetreuung) *
+Renditezeitraum: 4.885 Jahre **Erklärungen:** 1. **Wie funktioniert eine PV-Anlage?** Eine Photovoltaik-Anlage wandelt
+Sonnenenergie in elektrische Energie um, die dann entweder selbst verbraucht oder ins öffentliche Stromnetz eingespeist
+wird. Die Anlage besteht aus Solarzellen, einem Wechselrichter und einer Stromverteilung. Quelle: Wikipedia (Photovoltaik)
+2. **Warum ist Eigenverbrauch oft wirtschaftlicher als Einspeisung?** Eigenverbrauch ist oft wirtschaftlicher als
+Einspeisung, weil der Strom selbst verbraucht wird und somit keine Einspeisevergütung bezahlt werden muss. Zudem
+reduziert sich der Verbrauch an öffentlichem Strom, was wiederum weniger Kosten für den Benutzer bedeutet. Quelle:
+Eigene Berechnungen (basiert auf Eingabedaten) 3. **Welche Annahmen sind in dieser vereinfachten Rechnung besonders
+wichtig?** * Die PV-Effizienz von 35% ist eine Annahme, da tatsächlich verschiedene Faktoren wie die Sonneneinstrahlung,
+die Qualität der Solarzellen und die Alterung der Anlage den tatsächlichen Effizienzwert beeinflussen können. * Die
+Lebensdauer des Systems wurde nicht berücksichtigt. In realen Anlagen ist eine Lebensdauer von etwa 25 Jahren üblich.
+Quelle: Eigene Annahmen (basierend auf Quellen wie der Bundesnetzagentur) 4. **Welche Daten fehlen für eine r
+ealistischere Bewertung?** * Eine genaue Ermittlung der tatsächlichen PV-Effizienz des Systems * Die Berücksichtigung
+von Kosten, die nicht im Investitionsaufwand enthalten sind (z.B. Betriebs- und Wartungskosten) * Ein genaueres Bild der
+zukünftigen Energiepreise und Einspeisevergütungen Quelle: Eigene Annahmen (basierend auf Quellen wie der Bundesnetzagentur)
+Hinweis: Die berechneten Kennzahlen basieren auf den eingegebenen Daten und sind daher abhängig von diesen. In realen
+Anlagen können die tatsächlichen Werte je nach lokalen Bedingungen und Systemkonfiguration variieren.

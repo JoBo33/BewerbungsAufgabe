@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PV-Maßnahme</title>
+    <script src="./javascripts/frontend.js"></script>
+</head>
+<body>
+<div>
+    <label for="elec_consumption">Jahresstromverbrauch des Unternehmens (in kWh/a): </label>
+    <input type="text" id="elec_consumption" name="elec_consumption">
+</div>
+<div>
+    <label for="calc_pv_performance">Geplante PV-Leistung (in kWp): </label>
+    <input type="text" id="calc_pv_performance" name="calc_pv_performance">
+</div>
+<div>
+    <label for="spec_pv_earning">Spezifischer PV-Ertrag (kWh/kWp pro Jahr): </label>
+    <input type="text" id="spec_pv_earning" name="spec_pv_earning">
+</div>
+<div>
+    <label for="self_consumption">Angenommener Eigenverbrauchsanteil (in %): </label>
+    <input type="text" id="self_consumption" name="self_consumption">
+</div>
+<div>
+    <label for="elec_price">Strompreis (in kWh): </label>
+    <input type="text" id="elec_price" name="elec_price">
+</div>
+<div>
+    <label for="feed_in_tariff">Einspeisevergütung (in €/kWp): </label>
+    <input type="text" id="feed_in_tariff" name="feed_in_tariff">
+</div>
+<div>
+    <label for="invest_cost">Investitionskosten (in €/kWp): </label>
+    <input type="text" id="invest_cost" name="invest_cost">
+</div>
+<div>
+
+    <label for="anal_period">Betrachtungszeitraum (in Jahren): </label>
+    <input type="text" id="anal_period" name="anal_period">
+</div>
+<div>
+    <button type="button" id="btn">Daten auswerten</button>
+</div>
+<div id="calc_output">
+</div>
+<div id="ai_output">
+</div>
+</body>
+</html>
